@@ -1,0 +1,24 @@
+{
+  "name": "scrappy",
+  "version": "1.0.0",
+  "description": "A webscraper",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "scripts": {
+    "start": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Datthatreya-Bhatt/scrappy.git"
+  },
+  "author": "Datthatreya Bhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Datthatreya-Bhatt/scrappy/issues"
+  },
+  "homepage": "https://github.com/Datthatreya-Bhatt/scrappy#readme"
+}
